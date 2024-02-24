@@ -31,8 +31,6 @@ This project aims to recognize handwritten digits in the Arabic language using a
 - [Keras Documentation](https://keras.io/)
 - [TensorFlow Documentation](https://www.tensorflow.org/)
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 Michael Anwar
